@@ -1,6 +1,6 @@
 # 💻 NBA Player Stats - Data Analysis with Google Sheets/Excel
 ## Project Goal
-Clean a dataset in Google Sheets/Excel and perform data analysis with data visualization.
+Clean a dataset in Google Sheets/Excel and perform data analysis with data visualization using Pivot Tables, Graphs, and Charts.
 <ul>
 <li>Clean columns by removing duplicates and unnecessary decimal points.</li>
 <li>Identify that client for the data would be Team Managers who would want info that contributes to player development, game strategy, and team composition.</li>
